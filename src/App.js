@@ -33,7 +33,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/blog-platform-frontend">
       <Navbar user={user} onLogout={handleLogout} />
       <Routes>
         <Route path="/" element={<Home />} />
