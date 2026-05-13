@@ -1,0 +1,27 @@
+.create-post-container {
+  display: flex;
+  justify-content: center;
+}
+
+.create-post-form {
+  background-color: white;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 800px;
+}
+
+.create-post-form h1 {
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.form-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.form-actions button {
+  flex: 1;
+}
