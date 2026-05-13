@@ -2,7 +2,7 @@
   "name": "blog-platform-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/blog-platform",
+  "homepage": "https://heet-113.github.io/Blog-platform-frontend/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
