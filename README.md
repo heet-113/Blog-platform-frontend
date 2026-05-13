@@ -2,6 +2,8 @@
 
 React-based frontend for the Blog Platform application.
 
+[Live Demo](https://heet-113.github.io/Blog-platform-frontend/)
+
 ## Setup Instructions
 
 ### 1. Install Dependencies
